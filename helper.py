@@ -11,3 +11,8 @@ def get_openai_api_key():
     load_env()
     openai_api_key = os.getenv("OPENAI_API_KEY")
     return openai_api_key
+
+def get_gemini_api_key():
+    load_env()
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
+    return gemini_api_key
