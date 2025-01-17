@@ -16,3 +16,7 @@ def get_gemini_api_key():
     load_env()
     gemini_api_key = os.getenv("GEMINI_API_KEY")
     return gemini_api_key
+def get_hf_api_key():
+    load_env()
+    hf_api_key = os.getenv("HF_API_KEY")
+    return hf_api_key
