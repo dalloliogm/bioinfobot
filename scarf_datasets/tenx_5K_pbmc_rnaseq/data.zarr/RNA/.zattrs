@@ -1,0 +1,11 @@
+{
+    "is_assay": true,
+    "latest_cell_key": "I",
+    "latest_feat_key": "hvgs",
+    "misc": {},
+    "percentFeatures": {
+        "RNA_percentMito": "MT-|mt",
+        "RNA_percentRibo": "RPS|RPL|MRPS|MRPL"
+    },
+    "size_factor": 1000
+}
