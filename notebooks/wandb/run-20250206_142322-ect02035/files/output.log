@@ -1,0 +1,4 @@
+C:\Users\dallo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\accelerate\utils\modeling.py:1363: UserWarning: Current model requires 15364288 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
+  warnings.warn(
+Some weights of HyenaDNAForSequenceClassification were not initialized from the model checkpoint at LongSafari/hyenadna-medium-160k-seqlen-hf and are newly initialized: ['score.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.

@@ -1,0 +1,10 @@
+{"time":"2025-02-06T14:23:24.4373886Z","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"c:\\Users\\dallo\\workspace\\bioinfobot\\notebooks\\wandb\\run-20250206_142322-ect02035\\logs\\debug-core.log"}
+{"time":"2025-02-06T14:23:25.2244487Z","level":"INFO","msg":"created new stream","id":"ect02035"}
+{"time":"2025-02-06T14:23:25.2244487Z","level":"INFO","msg":"stream: started","id":"ect02035"}
+{"time":"2025-02-06T14:23:25.2287999Z","level":"INFO","msg":"writer: Do: started","stream_id":"ect02035"}
+{"time":"2025-02-06T14:23:25.2287999Z","level":"INFO","msg":"handler: started","stream_id":"ect02035"}
+{"time":"2025-02-06T14:23:25.2298011Z","level":"INFO","msg":"sender: started","stream_id":"ect02035"}
+{"time":"2025-02-06T14:23:25.7802273Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-06T14:29:47.8823276Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-06T15:31:48.8873643Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gmdbioinformatics-gmd-bioinformatics/huggingface/ect02035/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-06T18:26:40.0676259Z","level":"INFO","msg":"Resuming system monitor"}

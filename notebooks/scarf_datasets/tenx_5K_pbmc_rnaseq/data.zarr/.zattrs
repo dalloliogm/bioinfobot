@@ -1,0 +1,6 @@
+{
+    "assayTypes": {
+        "RNA": "RNA"
+    },
+    "defaultAssay": "RNA"
+}
