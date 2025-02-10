@@ -7,7 +7,7 @@
         "clevel": 5,
         "cname": "lz4",
         "id": "blosc",
-        "shuffle": 2
+        "shuffle": 1
     },
     "dtype": "<U16",
     "fill_value": "",
